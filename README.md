@@ -1,4 +1,10 @@
-# CMSC733 Project 1: My AutoPan
+# Creating a panorama using traditional and deep learning approach
+### Data set
+![1](https://user-images.githubusercontent.com/77606010/155822494-85699084-47b6-4ef0-a27b-05a4e974acad.jpg)
+![2](https://user-images.githubusercontent.com/77606010/155822495-9f9d2e8b-d297-4220-895a-60fb1a574486.jpg)
+![3](https://user-images.githubusercontent.com/77606010/155822496-e675dbd1-ace3-46c9-9698-dbd9ebfc09c6.jpg)
+### Final output
+![p2](https://user-images.githubusercontent.com/77606010/155822514-29f98de4-f171-4888-b530-f8d0a44f9b2d.png)
 
 ## Steps to run Phase 1 code
 1. Copy the path of the Image set and paste it in the Wrapper.py's path variable (line 218). Also change the number images read on the next line.
